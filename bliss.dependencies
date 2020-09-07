@@ -1,0 +1,44 @@
+[
+	{
+		"repository": "bezke/vendor_xiaomi_ginkgo",
+		"target_path": "vendor/xiaomi/ginkgo",
+		"branch": "havoc",
+		"remote": "github"
+	},
+	{
+		"repository": "trinket-devs/kernel_xiaomi_ginkgo",
+		"target_path": "kernel/xiaomi/ginkgo",
+		"branch": "havoc",
+		"remote": "github"
+	},
+	{
+		"repository": "ghostrider-reborn/android_vendor_miuicamera",
+		"target_path": "vendor/miuicamera",
+		"branch": "quartz",
+		"remote": "github"
+	},
+	{
+		"repository": "trinket-devs/hardware_qcom-caf_sm8150_display",
+		"target_path": "hardware/qcom-caf/sm8150/display",
+		"branch": "ten",
+		"remote": "github"
+	},
+	{
+		"repository": "trinket-devs/hardware_qcom-caf_sm8150_media",
+		"target_path": "hardware/qcom-caf/sm8150/media",
+		"branch": "ten",
+		"remote": "github"
+	},
+	{
+		"repository": "trinket-devs/hardware_qcom-caf_sm8150_audio",
+		"target_path": "hardware/qcom-caf/sm8150/audio",
+		"branch": "ten",
+		"remote": "github"
+	},
+	{
+		"repository": "trinket-devs/proton-clang",
+		"target_path": "prebuilts/clang/host/linux-x86/clang-12.0",
+		"branch": "master",
+		"remote": "github"
+	}
+]
